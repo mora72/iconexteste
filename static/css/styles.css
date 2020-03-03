@@ -1,0 +1,13 @@
+/* Para ocupar a tela inteira */
+.container-fluid {
+    padding: 0;
+}
+
+.container-fluid .row {
+    margin: 0;
+}
+
+.flex-container {
+  display: flex;
+  flex-direction: row;
+}
